@@ -19,7 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a firt year PhD student at the "Computing Resources Orchestration and Management for AI” group at Barcelona Supercomputer Center (BSC), under the supervision of Josep Lluis Berral and Jordi Torres.
+
+My research addresses 
+
+I received a BSc in Informatics Engineering and a MSc in Data Science at Polytecnic University of Catalonia (UPC). During my bachelor I did a semester-long academic exchange at Politecnico di Milano, and during my masters I did a one-year exchange at Denmark Technical University. In the past, I have been an Openlab Summer Student at CERN and I have worked as Data Scientist at Basetis, and as a Junior Research Engineer at BSC.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
