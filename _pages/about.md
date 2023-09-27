@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD student</a>. Computing Resources Orchestration and Management for AI group. [Barcelona Supercomputing Center](https://www.bsc.es/)
+subtitle: <a href='#'>PhD student</a>. 
+Computing Resources Orchestration and Management for AI group. 
+Barcelona Supercomputing Center ([BSC](https://www.bsc.es/))
 
 profile:
   align: right
