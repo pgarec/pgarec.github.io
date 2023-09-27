@@ -19,12 +19,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a firt year PhD student at the "Computing Resources Orchestration and Management for AI” group at Barcelona Supercomputer Center (BSC), under the supervision of Josep Lluis Berral and Jordi Torres.
+I'm a first year PhD student at the "Computing Resources Orchestration and Management for AI” group at Barcelona Supercomputer Center (BSC), under the supervision of [Josep Lluis Berral](https://www.berralgarcia.com/) and [Jordi Torres](https://torres.ai/).
 
-My research addresses 
+My research focuses on improving Cloud-Edge environments using federated deep learning methods. I also have a strong interest in probabilistic modeling and understanding uncertainty.
 
-I received a BSc in Informatics Engineering and a MSc in Data Science at Polytecnic University of Catalonia (UPC). During my bachelor I did a semester-long academic exchange at Politecnico di Milano, and during my masters I did a one-year exchange at Denmark Technical University. In the past, I have been an Openlab Summer Student at CERN and I have worked as Data Scientist at Basetis, and as a Junior Research Engineer at BSC.
+I earned a Bachelor's degree in Informatics Engineering and a Master's degree in Data Science from the Polytechnic University of Catalonia (UPC). During my undergraduate studies, I participated in a semester-long academic exchange program at Politecnico di Milano, and completed a one-year exchange program at Denmark Technical University. In the past, I had the opportunity to be an Openlab Summer Student at CERN and gained professional experience as a Data Scientist at Basetis. I also worked as a Junior Research Engineer at BSC.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of the lab, I enjoy [running](https://www.strava.com/athletes/44816409), cycling, and reading.
