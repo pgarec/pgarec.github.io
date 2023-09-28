@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a first-year PhD student in the "Computing Resources Orchestration and Management for AI" group at the Barcelona Supercomputer Center (BSC), under the supervision of [Josep Lluis Berral](https://www.berralgarcia.com/) and [Jordi Torres](https://torres.ai/). I'm now visiting [Alaa Youssef](https://research.ibm.com/people/alaa-youssef)'s lab at IBM T.J. Watson Research Center in Yorktwon, New York.
+I am a first-year PhD student in the "Computing Resources Orchestration and Management for AI" group at the Barcelona Supercomputer Center (BSC), under the supervision of [Josep Lluis Berral](https://www.berralgarcia.com/) and [Jordi Torres](https://torres.ai/). I'm now visiting [Alaa Youssef](https://research.ibm.com/people/alaa-youssef) lab at IBM T.J. Watson Research Center in Yorktwon, New York.
 
 My research focuses on improving Cloud-Edge environments using federated deep learning methods. I also have a strong interest in probabilistic machine learning and uncertainty quantification.
 
