@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: 
+description: Below is a list of publications I have co-authored.
 nav: true
 nav_order: 1
 ---
