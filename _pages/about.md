@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a first year PhD student at the "Computing Resources Orchestration and Management for AI” group at Barcelona Supercomputer Center (BSC), under the supervision of [Josep Lluis Berral](https://www.berralgarcia.com/) and [Jordi Torres](https://torres.ai/).
+I am a first-year PhD student in the "Computing Resources Orchestration and Management for AI" group at the Barcelona Supercomputer Center (BSC), under the supervision of [Josep Lluis Berral](https://www.berralgarcia.com/) and [Jordi Torres](https://torres.ai/).
 
 My research focuses on improving Cloud-Edge environments using federated deep learning methods. I also have a strong interest in probabilistic machine learning and uncertainty quantification.
 
