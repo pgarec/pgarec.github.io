@@ -11,4 +11,13 @@ nav_order: 1
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
+<!-- _pages/publications.md -->
+<div class="Talks">
+
+{% bibliography -f {{ site.scholar.bibliography }} %}
+
+<div class="Dissertations">
+
+{% bibliography -f {{ site.scholar.bibliography }} %}
+
 </div>
