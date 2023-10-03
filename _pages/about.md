@@ -18,11 +18,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a first-year PhD student in the "Computing Resources Orchestration and Management for AI" group at the Barcelona Supercomputer Center (BSC), under the supervision of [Josep Lluis Berral](https://www.berralgarcia.com/) and [Jordi Torres](https://torres.ai/). I'm now visiting [Alaa Youssef](https://research.ibm.com/people/alaa-youssef) lab at IBM T.J. Watson Research Center in Yorktwon, New York.
+I am a first-year PhD student in the CROMAI group at Barcelona Supercomputing Center (BSC), under the supervision of [Josep Lluis Berral](https://www.berralgarcia.com/) and [Jordi Torres](https://torres.ai/). I'm now visiting [Alaa Youssef](https://research.ibm.com/people/alaa-youssef) lab at IBM T.J. Watson Research Center in New York.
 
 My research focuses on improving Cloud-Edge environments using federated deep learning methods. I also have a strong interest in probabilistic machine learning and uncertainty quantification.
 
-I earned a Bachelor's degree in Informatics Engineering and a Master's degree in Data Science from the Polytechnic University of Catalonia (UPC). During my undergraduate studies, I participated in a semester-long academic exchange program at Politecnico di Milano, and completed a one-year exchange program at Denmark Technical University. 
+I earned a Bachelor's degree in Informatics Engineering and a Master's degree in Data Science from the Universitat Politècnica de Catalunya (UPC). During my undergraduate studies, I participated in a semester-long academic exchange program at Politecnico di Milano, and completed a one-year exchange program at Denmark Technical University.
 
 In the past, I had the opportunity to be an Openlab Summer Student at [CERN](https://home.cern/science/computing/cern-openlab) and gained professional experience as a Data Scientist at Basetis. I also worked as a Junior Research Engineer at BSC.
 
