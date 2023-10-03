@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lop1498.github.io/sitemap.xml
+Sitemap: https://pgarec.github.io/sitemap.xml
