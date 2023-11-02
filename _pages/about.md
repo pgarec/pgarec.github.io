@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Pol Garcia Recasens
 permalink: /
 subtitle: <a href='#'>PhD student</a>
 
