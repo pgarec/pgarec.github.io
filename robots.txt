@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
 Sitemap: https://pgarec.github.io/sitemap.xml
