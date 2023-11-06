@@ -22,7 +22,7 @@ I am a first-year PhD student in the CROMAI group at Barcelona Supercomputing Ce
 
 My research focuses on improving Cloud-Edge environments using federated deep learning methods. I also have a strong interest in probabilistic machine learning and uncertainty quantification.
 
-I earned a Bachelor's degree in Informatics Engineering and a Master's degree in Data Science from the Universitat Politècnica de Catalunya (UPC). During my undergraduate studies, I participated in a semester-long academic exchange program at Politecnico di Milano, and completed a one-year exchange program at Denmark Technical University.
+I have a Bachelor's degree in Informatics Engineering and a Master's degree in Data Science from the Universitat Politècnica de Catalunya (UPC). During my undergraduate studies, I participated in a semester-long academic exchange program at Politecnico di Milano, and completed a one-year exchange program at Denmark Technical University.
 
 In the past, I had the opportunity to be an Openlab Summer Student at [CERN](https://home.cern/science/computing/cern-openlab) and gained professional experience as a Data Scientist at Basetis. I also worked as a Junior Research Engineer at BSC.
 
