@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a first-year PhD student in the CROMAI group at Barcelona Supercomputing Center (BSC), under the supervision of [Josep Lluis Berral](https://www.berralgarcia.com/) and [Jordi Torres](https://torres.ai/). I'm now visiting [Alaa Youssef](https://research.ibm.com/people/alaa-youssef) lab at IBM T.J. Watson Research Center in New York.
 
-My research focuses on improving Cloud-Edge environments using federated deep learning methods, pushing towards more secure and accurate aggregation methods. I'm also interested in probabilistic machine learning and uncertainty quantification.
+My research focuses on improving Cloud-Edge environments using federated deep learning, pushing towards more secure and accurate aggregation techniques. I'm also interested in probabilistic machine learning and uncertainty quantification.
 
 I have a Bachelor's degree in Informatics Engineering and a Master's degree in Data Science from Universitat Politècnica de Catalunya (UPC). During my undergraduate studies, I participated in a semester-long academic exchange program at Politecnico di Milano (Polimi), and completed a one-year exchange program at Denmark Technical University (DTU).
 
