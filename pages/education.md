@@ -11,7 +11,7 @@ layout: default
 - **MSc in Data Science** – Technical University of Catalonia (UPC)  
   **Sep 2021 – Jun 2023**  
   *Academic Exchange:* Sep 2022 – Jun 2023 at Technical University of Denmark (DTU)  
-  **MSc Thesis:** [[Paper](https://upcommons.upc.edu/server/api/core/bitstreams/4baf0ed1-1504-4777-b17b-7d34d092f8a6/content)]*Model-driven models*  
+  **MSc Thesis:** [[Paper](https://upcommons.upc.edu/server/api/core/bitstreams/4baf0ed1-1504-4777-b17b-7d34d092f8a6/content)] *Model-driven models*  
   *Advisors:* Pablo Moreno-Muñoz, Søren Hauberg  
 
 - **BSc in Informatics Engineering** – Technical University of Catalonia (UPC)  
