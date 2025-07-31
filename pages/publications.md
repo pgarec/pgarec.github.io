@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Publications
+## Publications
 
 **[DIG-BUGS @ ICML'25]** **In-Context Bias Propagation in LLM-Based Tabular Data Generation** [(arXiv)](https://arxiv.org/pdf/2506.09630)  
 *Pol G. Recasens, Alberto Gutierrez, Jordi Torres, Josep Berral, Anisa Halimi, Kieran Fraser*
