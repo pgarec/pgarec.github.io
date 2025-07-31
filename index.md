@@ -31,6 +31,7 @@ For further details, visit any of the following sections:
 - [Talks](/pages/talks) - updated list of dissemination talks  
 - [Teaching](/pages/teaching) - teaching and mentoring experience
 - [Work](/pages/work) - past and current work experience
+- [Education](/pages/education) - past education
 - [Contact](/pages/contact) - contact information
 
 

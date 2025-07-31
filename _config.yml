@@ -24,6 +24,8 @@ nav:
   link: "/pages/publications"
 - name: "Work"
   link: "/pages/work"
+- name: "Education"
+  link: "/pages/education"
 - name: "Contact"
   link: "/pages/contact"
 
