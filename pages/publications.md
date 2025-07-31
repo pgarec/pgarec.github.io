@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Publications
 
 **[DIG-BUGS@ICML'25]** In-Context Bias Propagation in LLM-Based Tabular Data Generation [(arXiv)](https://arxiv.org/pdf/2506.09630?)  
