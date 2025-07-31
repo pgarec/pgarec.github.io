@@ -11,7 +11,7 @@ Privacy and Security of AI team
 
 ---
 
-### **Visiting Researcher** – IBM Research T.J. Watson  
+### **Visiting Researcher** – IBM T.J. Watson Research Center
 **Sep 2023 – Dec 2023**  
 Cloud native AI platform research team
 *Supervisors:* Chen Wang, Yue Zhu
