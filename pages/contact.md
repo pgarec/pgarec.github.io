@@ -5,7 +5,8 @@ is_contact: true
 
 ## Contact   
 
-- **Email:** [pol.garcia [at] bsc.es](pol.garcia@bsc.es)  
+**Email:** [pol.garcia [at] bsc.es](pol.garcia@bsc.es)  
+
 ---
 
 ## Social Media

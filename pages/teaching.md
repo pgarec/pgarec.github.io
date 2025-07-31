@@ -6,7 +6,7 @@ layout: default
 
 ### Lecturer
 
-**Neural Networks** – *Universitat de Carlemany*  
+**Neural Networks** – *Grau en Enginyeria Informàtica, Universitat de Carlemany*  
 - **2023–2024 (Q1 & Q2):** Prepared and delivered all lectures 
 - **2024–2025 (Q1):** Prepared and delivered all lectures 
 
