@@ -16,16 +16,16 @@ layout: default
   **Location:** New York, USA  
   *Supervisors:* Chen Wang, Yue Zhu
 
-- **Openlab Summer Student** – [CERN Openlab](https://openlab.cern/)  
-  **Jun 2022 – Aug 2022**  
-  **Location:** Meyrin, Switzerland  
-  *Supervisors:* Ilaria Luise, Christian Lessig
-
 - **Research Assistant** – Technical University of Denmark (DTU)  
   **Sep 2022 – Feb 2023**  
   *Cognitive Systems group*  
   **Location:** Copenhagen, Denmark  
   *Supervisors:* Pablo Moreno-Muñoz, Søren Hauberg
+
+- **Openlab Summer Student** – [CERN Openlab](https://openlab.cern/)  
+  **Jun 2022 – Aug 2022**  
+  **Location:** Meyrin, Switzerland  
+  *Supervisors:* Ilaria Luise, Christian Lessig
 
 - **Research Engineer** – Barcelona Supercomputing Center (BSC)  
   **Sep 2021 – Jun 2022**  
