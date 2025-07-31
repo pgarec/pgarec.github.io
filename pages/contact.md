@@ -3,24 +3,13 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+## Contact
 
-* Phone: [+91-123123](tel:+91-123123)
-
+**Email:** [polgarciarecasens [at] gmail.com](polgarciarecasens@gmail.com)  
 ---
 
-## Mailing Address
+## Social Media
 
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+- [LinkedIn](https://www.linkedin.com/in/pol-garcia-recasens-854438168/)
+- [GitHub](https://github.com/pgarec)
+- [Google Scholar](https://scholar.google.com/citations?user=xU2bqnkAAAAJ&hl=en)
