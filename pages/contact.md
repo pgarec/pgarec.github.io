@@ -3,8 +3,9 @@ layout: default
 is_contact: true
 ---
 
-## Contact  
-- **Email:** [polgarciarecasens [at] gmail.com](pol.garcia@bsc.es)  
+## Contact   
+
+- **Email:** [pol.garcia [at] bsc.es](pol.garcia@bsc.es)  
 ---
 
 ## Social Media
