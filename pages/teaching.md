@@ -25,7 +25,6 @@ layout: default
 ## Talks
 
 **Jornada TIC** – *UPC* (Feb 2024)  
-- *"Com funciona el ChatGPT i altres IA conversacionals"*  
 - Presented a general overview of ChatGPT training and deployment
 
 **CERN Openlab Lightning Talks** – *CERN* (Sep 2022)  
