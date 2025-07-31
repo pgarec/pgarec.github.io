@@ -21,7 +21,7 @@ Selected publications:
 - [NeurIPS'23] On masked pre-training and the marginal likelihood ([arXiv](https://arxiv.org/pdf/2306.00520))  
   P Moreno-Muñoz, P Garcia Recasens, S Hauberg
 
-In the past, I received a MSc in Data Science and BSc in Informatics Engineering from the Technical University of Catalonia (UPC). I also worked as a researcher for the Barcelona Supercomputing Center (BSC) and UPC.
+In the past, I received a MSc in Data Science and BSc in Informatics Engineering from the Technical University of Catalonia (UPC). I also worked as a researcher for the Barcelona Supercomputing Center (BSC) and Denmark Technical University (DTU).
 
 ---
 
