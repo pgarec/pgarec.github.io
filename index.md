@@ -28,8 +28,7 @@ In the past, I received a MSc in Data Science and BSc in Informatics Engineering
 For further details, visit any of the following sections:
 
 - [Publications](/pages/publications) - updated publication list
-- [Talks](/pages/talks) - updated list of dissemination talks  
-- [Teaching](/pages/teaching) - teaching and mentoring experience
+- [Teaching](/pages/teaching) - teaching, talks and mentoring experience
 - [Work](/pages/work) - past and current work experience
 - [Education](/pages/education) - past education
 - [Contact](/pages/contact) - contact information
