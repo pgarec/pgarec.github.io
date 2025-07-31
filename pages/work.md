@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Work Experience
+# Work Experience
 
 - **Visiting Researcher** – IBM Research Ireland  
   **Jan 2025 – Jul 2025**  

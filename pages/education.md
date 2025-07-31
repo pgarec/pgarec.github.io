@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Education
+# Education
 
 - **PhD in Computer Science** – Computer Architecture Department, Technical University of Catalonia (UPC)  
   **Oct 2023 – Present**  
