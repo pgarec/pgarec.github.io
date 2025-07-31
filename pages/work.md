@@ -31,10 +31,10 @@ Cognitive Systems Group
 
 ---
 
-### **Research Engineer** – Darcelona Supercomputing Center (BSC)  
+### **Research Engineer** – Barcelona Supercomputing Center (BSC)  
 **Sep 2021 – Jun 2022**  
 Data-Centric Computing Group
-*Supervisors:* Jordi Torres, Josep Lluis Berral
+*Supervisors:* Jordi Torres
 
 ---
 
