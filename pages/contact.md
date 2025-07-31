@@ -4,9 +4,7 @@ is_contact: true
 ---
 
 ## Contact  
-
-
-**Email:** [polgarciarecasens [at] gmail.com](polgarciarecasens@gmail.com)  
+- **Email:** [polgarciarecasens [at] gmail.com](pol.garcia@bsc.es)  
 ---
 
 ## Social Media
