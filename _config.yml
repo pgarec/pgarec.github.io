@@ -1,24 +1,30 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Pol Garcia Recasens
+url: "https://pgarec.github.io"
+baseurl: ""
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/pgarec"
 
 sass:
-    style: compressed
-    sass_dir: _sass
+   style: compressed
+   sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+- name: "About"
+  link: "/"
+- teaching: "Teaching"
+  link: "teaching"
+- talks: "Talks"
+  link: "talks"
+- publications: "Publications"
+  link: "publications"
+- work: "Work"
+  link: "work"
+- name: "Contact"
+  link: "contact"
+
+

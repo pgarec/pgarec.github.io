@@ -2,44 +2,27 @@
 layout: default
 ---
 
-## About Me
+<img class="profile-picture" src="pol.jpg">
 
-<img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+I'm a third-year PhD student at the Data-Centric Computing group at Barcelona Supercomputing Center, under the supervision of Jordi Torres and Josep Lluis Berral.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
-## Research Interest
+My research addresses the efficient serving of large-scalce distributed AI systems. Also, I'm particularly interested in the interestecion between secure and responsible AI. During my PhD, I have interned at IBM Research T.J. Watson, and IBM Research Ireland. Previously, I've done an academic exchange at DTU in Denmark, and I've been an Openlab Summer Student at CERN.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
-## Publications
+Selected publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 
-## Typography
+For further details, visit any of the following links:
+/publications - updated publication list.
+/talks - updated list of dissemination talks.
+/education - past and current education.
+/work - past and current work experience.
+/service - service in academic conferences.
+/projects - past and current research projects.
+/teaching - teaching and mentoring experience.
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
 
-Here is a table
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
 
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
