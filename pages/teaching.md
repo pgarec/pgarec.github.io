@@ -7,8 +7,8 @@ layout: default
 ### Lecturer
 
 **Neural Networks** – *Universitat de Carlemany*  
-- **2023–2024 (Q1 & Q2):** Prepared and delivered all lectures (120 hours)  
-- **2024–2025 (Q1):** Prepared and delivered all lectures (60 hours)
+- **2023–2024 (Q1 & Q2):** Prepared and delivered all lectures 
+- **2024–2025 (Q1):** Prepared and delivered all lectures 
 
 ### Teaching Assistant
 
