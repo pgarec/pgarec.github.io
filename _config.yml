@@ -20,8 +20,6 @@ nav:
   link: "/pages/publications"
 - name: "Teaching"
   link: "/pages/teaching"
-- name: "Talks"
-  link: "/pages/talks"
 - name: "Work"
   link: "/pages/work"
 - name: "Education"
