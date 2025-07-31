@@ -20,7 +20,9 @@ layout: default
 **Cloud Computing** – *Màster en Enginyeria Informàtica, FIB–UPC* (Feb 2024)  
 - Delivered a lecture on LLM inference optimization strategies
 
-### Talks
+---
+
+## Talks
 
 **Jornada TIC** – *UPC* (Feb 2024)  
 - *"Com funciona el ChatGPT i altres IA conversacionals"*  
