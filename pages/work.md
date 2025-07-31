@@ -23,13 +23,13 @@ layout: default
 
 - **Research Assistant** – Technical University of Denmark (DTU)  
   **Sep 2022 – Feb 2023**  
-  *Cognitive Systems Group*  
+  *Cognitive Systems group*  
   Copenhagen, Denmark
   *Supervisors:* Pablo Moreno-Muñoz, Søren Hauberg
 
 - **Research Engineer** – Barcelona Supercomputing Center (BSC)  
   **Sep 2021 – Jun 2022**  
-  *Data-Centric Computing Group*  
+  *Data-Centric Computing group*  
   Barcelona, Spain
   *Supervisor:* Jordi Torres
 
