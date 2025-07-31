@@ -6,12 +6,14 @@ layout: default
 
 ### **Visiting Researcher** – IBM Research Ireland  
 **Jan 2025 – Jul 2025**  
+Privacy and Security of AI team
 *Supervisors:* Kieran Fraser, Anisa Halimi
 
 ---
 
 ### **Visiting Researcher** – IBM Research T.J. Watson  
 **Sep 2023 – Dec 2023**  
+Cloud native AI platform research team
 *Supervisors:* Chen Wang, Yue Zhu
 
 ---
@@ -24,12 +26,14 @@ layout: default
 
 ### **Research Assistant** – Technical University of Denmark (DTU)  
 **Sep 2022 – Feb 2023**  
+Cognitive Systems Group
 *Supervisors:* Pablo Moreno-Muñoz, Søren Hauberg
 
 ---
 
-### **Research Engineer** – Data-Centric Computing Group, Barcelona Supercomputing Center (BSC)  
+### **Research Engineer** – Darcelona Supercomputing Center (BSC)  
 **Sep 2021 – Jun 2022**  
+Data-Centric Computing Group
 *Supervisors:* Jordi Torres, Josep Lluis Berral
 
 ---
