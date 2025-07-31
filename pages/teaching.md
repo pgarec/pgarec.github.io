@@ -12,10 +12,6 @@ As part of my PhD at Barcelona Supercomputing Center, I have been involved in th
 - [Description of responsibilities]
 - [Number of students, topics covered, etc.]
 
-**[Course Name]** - [Institution] ([Academic Year])  
-- [Description of responsibilities]
-- [Number of students, topics covered, etc.]
-
 ### Mentoring
 
 **Undergraduate Students:**
@@ -27,18 +23,14 @@ As part of my PhD at Barcelona Supercomputing Center, I have been involved in th
 - [Student Name] - [Thesis Title] ([Year])
 
 ### Guest Lectures
-
-**[Lecture Title]** - [Course/Institution] ([Date])  
-[Brief description of topic covered]
-
-**[Lecture Title]** - [Course/Institution] ([Date])  
-[Brief description of topic covered]
+**[Cloud Computing]** - [UPC] ([Feb 2024])  
+- Give a lecture about LLM inference optimizations.
 
 ### Academic Service
 
 **Reviewer for:**
-- [Conference/Journal Name] ([Year])
-- [Conference/Journal Name] ([Year])
+- IEEE Transactions of Parallel and Distributed Systems ([2025])
+- IEEE Transactions of Parallel and Distributed Systems ([2024])
 
 **Program Committee Member:**
 - [Workshop/Conference Name] ([Year])
