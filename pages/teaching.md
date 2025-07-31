@@ -6,24 +6,23 @@ layout: default
 
 ### Lecturer
 
-**Neural Networks** – [Universitat de Carlemany]  
+**Neural Networks** – Universitat de Carlemany  
 - **2023–2024 (Q1 & Q2):** Prepared and delivered all lectures (120 hours)  
 - **2024–2025 (Q1):** Prepared and delivered all lectures (60 hours)
 
 ### Guest Lectures
 
-**Cloud Computing** – [UPC] (Feb 2024)  
+**Cloud Computing** – Master en Enginyeria Informàtica, FIB-UPC (Feb 2024)  
 - Delivered a guest lecture on LLM inference optimization strategies
 
 ### Talks
 
-**Jornada TIC** – [UPC] (Feb 2024)  
+**Jornada TIC** – UPC (Feb 2024)  
 - *"Com funciona el ChatGPT i altres IA conversacionals"*  
 - Explained ChatGPT training and deployment pipeline to a broad audience
 
-**AtmoRep Seminar** – [CERN] (Feb 2024)  
-- [Talk link](https://cds.cern.ch/record/2834198)  
-- Presented a technical overview of ChatGPT training and deployment
+**AtmoRep Seminar** – CERN (Feb 2024)  
+- [Talk](https://cds.cern.ch/record/2834198)[Slides](https://indico.cern.ch/event/1191489/contributions/5011692/attachments/2508114/4310237/CERN_AtmoRep.pptx%20(3).pdf)[PDF](https://zenodo.org/records/7215592) Presented how to leverage transformer architectures to obtain a data driven description of atmospheric dynamics.
 
 ---
 
