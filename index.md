@@ -12,12 +12,14 @@ My research addresses the efficient serving of large-scalce distributed AI syste
 
 Selected publications:
 
-- [CLOUD'25] Mind the Memory Gap: Unveiling GPU Bottlenecks in Large-Batch LLM Inference ([arXiv](https://arxiv.org/pdf/2503.08311)) 
-Pol G Recasens, Ferran Agullo, Yue Zhu, Chen Wang, Eun Kyung Lee, Olivier Tardieu, Jordi Torres, Josep Ll Berral
-- [EuroMLSys'24] Towards Pareto Optimal Throughput in Small Language Model Serving ([arXiv](https://arxiv.org/pdf/2404.03353))
-Pol G Recasens, Yue Zhu, Chen Wang, Eun Kyung Lee, Olivier Tardieu, Alaa Youssef, Jordi Torres, Josep Ll Berral
-- [NeurIPS'23] On masked pre-training and the marginal likelihood ([arXiv](https://arxiv.org/pdf/2306.00520))
-P Moreno-Muñoz, P Garcia Recasens, S Hauberg
+- [CLOUD'25] Mind the Memory Gap: Unveiling GPU Bottlenecks in Large-Batch LLM Inference ([arXiv](https://arxiv.org/pdf/2503.08311))  
+  Pol G Recasens, Ferran Agullo, Yue Zhu, Chen Wang, Eun Kyung Lee, Olivier Tardieu, Jordi Torres, Josep Ll Berral
+
+- [EuroMLSys'24] Towards Pareto Optimal Throughput in Small Language Model Serving ([arXiv](https://arxiv.org/pdf/2404.03353))  
+  Pol G Recasens, Yue Zhu, Chen Wang, Eun Kyung Lee, Olivier Tardieu, Alaa Youssef, Jordi Torres, Josep Ll Berral
+
+- [NeurIPS'23] On masked pre-training and the marginal likelihood ([arXiv](https://arxiv.org/pdf/2306.00520))  
+  P Moreno-Muñoz, P Garcia Recasens, S Hauberg
 
 In the past, I received a MSc in Data Science and BSc in Informatics Engineering from the Technical University of Catalonia (UPC). I also worked as a researcher for the Barcelona Supercomputing Center (BSC) and UPC.
 
