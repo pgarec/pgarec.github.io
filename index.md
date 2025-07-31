@@ -10,9 +10,16 @@ I'm a third-year PhD student at the Data-Centric Computing group at Barcelona Su
 
 My research addresses the efficient serving of large-scalce distributed AI systems. Also, I'm particularly interested in the interestecion between secure and responsible AI. During my PhD, I have interned at IBM Research T.J. Watson, and IBM Research Ireland. Previously, I've done an academic exchange at DTU in Denmark, and I've been an Openlab Summer Student at CERN.
 
-## Selected Publications
+Selected publications:
 
-[Add your key publications here]
+- [CLOUD'25] Mind the Memory Gap: Unveiling GPU Bottlenecks in Large-Batch LLM Inference (arxiv) 
+Pol G Recasens, Ferran Agullo, Yue Zhu, Chen Wang, Eun Kyung Lee, Olivier Tardieu, Jordi Torres, Josep Ll Berral
+- [EuroMLSys'24] Towards Pareto Optimal Throughput in Small Language Model Serving (arxiv)
+Pol G Recasens, Yue Zhu, Chen Wang, Eun Kyung Lee, Olivier Tardieu, Alaa Youssef, Jordi Torres, Josep Ll Berral
+- [NeurIPS'23] On masked pre-training and the marginal likelihood (arxiv)
+P Moreno-Muñoz, P Garcia Recasens, S Hauberg
+
+In the past, I received a MSc in data science and BSc in Informatics Engineering from the Technical University of Catalonia (UPC). I also worked as a researcher for the Barcelona Supercomputing Center (BSC) and UPC.
 
 ---
 
