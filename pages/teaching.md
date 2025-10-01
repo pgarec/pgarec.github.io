@@ -35,5 +35,6 @@ layout: default
 ## Academic Service
 
 **Reviewer for:**  
-- *IEEE Transactions on Parallel and Distributed Systems* (2025)  
+- *IEEE Transactions on Parallel and Distributed Systems* (2025)
+- *The Journal of Supercomputing* (2025)  
 - *IEEE Transactions on Parallel and Distributed Systems* (2024)
