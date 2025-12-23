@@ -4,7 +4,7 @@ layout: default
 
 ## Publications
 
-**[Journal of Information Security and Applications '25]** **Free-rider detection using privacy attacks** [(arXiv)](https://arxiv.org/pdf/2506.09630)  
+**[Journal of Information Security and Applications '25]** **FRIDA: Free-rider detection using privacy attacks** [(arXiv)](https://arxiv.org/pdf/2506.09630)  
 *Pol G. Recasens, Ádam Horváth, Alberto Gutierrez, Jordi Torres, Josep Berral, Balázs Pejó*
 <details> <summary><strong>Abstract</strong></summary> Federated learning is increasingly popular as it enables multiple parties with limited datasets and resources to train a machine learning model collaboratively. However, similar to other collaborative systems, federated learning is vulnerable to free-riders — participants who benefit from the global model without contributing. Free-riders compromise the integrity of the learning process and slow down the convergence of the global model, resulting in increased costs for honest participants. To address this challenge, we propose FRIDA: free-rider detection using privacy attacks. Instead of focusing on implicit effects of free-riding, FRIDA utilizes membership and property inference attacks to directly infer evidence of genuine client training. Our extensive evaluation demonstrates that FRIDA is effective across a wide range of scenarios.
 </details>
