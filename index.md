@@ -5,10 +5,9 @@ layout: default
 <img class="profile-picture" src="pol.jpg">
 
 
-I'm a third-year PhD student at the [Data-Centric Computing](https://www.bsc.es/discover-bsc/organisation/scientific-structure/data-centric-computing) group at Barcelona Supercomputing Center, under the supervision of [Jordi Torres](https://torres.ai/) and [Josep Lluís Berral](https://www.berralgarcia.com/).
+I'm a postdoctoral researcher at the [Data-Centric Computing](https://www.bsc.es/discover-bsc/organisation/scientific-structure/data-centric-computing) group at Barcelona Supercomputing Center. I am currently the local PI of the EU Horizon OptimAIse project, where I work on improving the orchestration of modern AI systems on resource-constrained devices through energy-aware policies.
 
-
-My research addresses the efficient serving of large-scale distributed AI systems. Also, I'm particularly interested in the interestecion between secure and responsible AI. During my PhD, I have interned at IBM Research T.J. Watson, and IBM Research Ireland. Previously, I've done an academic exchange at DTU in Denmark, and I've been an Openlab Summer Student at [CERN](https://openlab.cern/).
+My research addresses the efficient and secure deployment of large-scale distributed AI systems. During my PhD, I have interned at IBM Research T.J. Watson, and IBM Research Ireland. Previously, I've done an academic exchange at DTU in Denmark, and I've been an Openlab Summer Student at [CERN](https://openlab.cern/).
 
 Selected publications:
 
