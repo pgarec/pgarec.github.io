@@ -5,7 +5,7 @@ layout: default
 ## Education
 
 - **PhD in Computer Science** – Computer Architecture Department, Technical University of Catalonia (UPC)  
-  **Oct 2023 – Present**  
+  **Jul 2023 – Aug 2026**  
   *Advisors:* Jordi Torres, Josep Lluis Berral
 
 - **MSc in Data Science** – Technical University of Catalonia (UPC)  
