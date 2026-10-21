@@ -4,16 +4,19 @@ layout: default
 
 ## Teaching
 
+### Professor Substitut
+
+**Computer Architecture** – *Grau en Enginyeria Informàtica, UPC*  
+- **2026–2027 (Q1 & Q2):** Laboratory and problems.
+
+**Computer Architecture** – *Grau en Enginyeria Informàtica, UPC*  
+- **2025–2026 (Q1 & Q2):** Laboratory and problems.
+
 ### Lecturer
 
 **Neural Networks** – *Grau en Enginyeria Informàtica, Universitat de Carlemany*  
 - **2023–2024 (Q1 & Q2):** Prepared and delivered all lectures 
 - **2024–2025 (Q1):** Prepared and delivered all lectures 
-
-### Teaching Assistant
-
-**Computer Architecture** – *Grau en Enginyeria Informàtica, UPC*  
-- **2025–2026 (Q1 & Q2):** Laboratory assistant
 
 ### Guest Lectures
 
