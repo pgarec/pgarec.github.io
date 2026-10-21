@@ -6,7 +6,7 @@ layout: default
 
 - **Visiting Researcher** – Imperial College London 
   **Sep 2026 – Nov 2026**  
-  *Large-Scale Data & Distributed Systems group*  
+  *Large-Scale Data & Systems group*  
   **Location:** London, UK  
   *Supervisors:* Peter Pietzuch
   
