@@ -4,6 +4,12 @@ layout: default
 
 ## Work Experience
 
+- **Visiting Researcher** – Imperial College London 
+  **Sep 2026 – Nov 2026**  
+  *Large-Scale Data & Distributed Systems group*  
+  **Location:** London, UK  
+  *Supervisors:* Peter Pietzuch
+  
 - **Visiting Researcher** – IBM Research Ireland  
   **Jan 2025 – Jul 2025**  
   *Privacy and Security of AI team*  
