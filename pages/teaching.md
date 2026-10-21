@@ -7,8 +7,8 @@ layout: default
 ### Professor Substitut
 
 **Computer Architecture** – *Grau en Enginyeria Informàtica, UPC*  
-- **2026–2027 (Q1 & Q2):** Laboratory and problems.
-- **2025–2026 (Q1 & Q2):** Laboratory and problems.
+- **2026–2027 (Q1 & Q2):** Lab and problem-solving sessions.
+- **2025–2026 (Q1 & Q2):** Lab and problem-solving sessions.
 
 ### Lecturer
 
