@@ -8,8 +8,6 @@ layout: default
 
 **Computer Architecture** – *Grau en Enginyeria Informàtica, UPC*  
 - **2026–2027 (Q1 & Q2):** Laboratory and problems.
-
-**Computer Architecture** – *Grau en Enginyeria Informàtica, UPC*  
 - **2025–2026 (Q1 & Q2):** Laboratory and problems.
 
 ### Lecturer
