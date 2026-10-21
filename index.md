@@ -5,9 +5,9 @@ layout: default
 <img class="profile-picture" src="pol.jpg">
 
 
-I'm a postdoctoral researcher at the [Data-Centric Computing](https://www.bsc.es/discover-bsc/organisation/scientific-structure/data-centric-computing) group at Barcelona Supercomputing Center. I am currently the local PI of the EU Horizon OptimAIse project, where I work on improving the orchestration of modern AI systems on resource-constrained devices through energy-aware policies. Recently, I was a visiting researcher in the Large Scale & Distributed Systems group at Imperial College London, working with Prof. Peter Pietzuch.
+I'm a postdoctoral researcher at the [Data-Centric Computing](https://www.bsc.es/discover-bsc/organisation/scientific-structure/data-centric-computing) group at Barcelona Supercomputing Center. I am currently the local PI of the EU Horizon OptimAIse project, where I work on improving the orchestration of modern AI systems on resource-constrained devices through energy-aware policies. 
 
-My research addresses the efficient and secure deployment of large-scale distributed AI systems. During my PhD, I have interned at IBM Research T.J. Watson, and IBM Research Ireland. Previously, I've done an academic exchange at DTU in Denmark, and I've been an Openlab Summer Student at [CERN](https://openlab.cern/).
+My research addresses the efficient and secure deployment of large-scale distributed AI systems. My research background includes a postdoctoral visit to Imperial College London under Prof. Peter Pietzuch, PhD internships at IBM Research (T.J. Watson and Ireland), an academic exchange at DTU in Denmark, and a fellowship as an Openlab Summer Student at [CERN](https://openlab.cern/).
 
 Selected publications:
 
