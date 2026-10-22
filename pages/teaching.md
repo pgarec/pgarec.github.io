@@ -16,14 +16,10 @@ layout: default
 - **2023–2024 (Q1 & Q2):** Prepared and delivered all lectures 
 - **2024–2025 (Q1):** Prepared and delivered all lectures 
 
-### Guest Lectures
+### Guest Lectures and Talks
 
 **Cloud Computing** – *Màster en Enginyeria Informàtica, FIB–UPC* (Feb 2024)  
 - Delivered a lecture on LLM inference optimization strategies
-
----
-
-## Talks
 
 **Jornada TIC** – *UPC* (Feb 2024)  
 - Presented a general overview of ChatGPT training and deployment
