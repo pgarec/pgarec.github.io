@@ -3,8 +3,7 @@ layout: default
 ---
 
 ## Work Experience
-
-- **Visiting Researcher** – Imperial College London
+- **Visiting Researcher** – Imperial College London  
   **Sep 2026 – Nov 2026**  
   *Large-Scale Data & Systems group*  
   **Location:** London, UK  
