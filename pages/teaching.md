@@ -33,8 +33,8 @@ layout: default
 
 ## Student Supervision
 
-**Marc Font Ruana** - *Bachelor Thesis, FIB, UPC (Sep 2026)* - Cloud-Native Deployment and Orchestration for Efficient LLM Routing   
-**Marc Romera Peral** - *Bachelor Thesis, FIB, UPC (Mar 2026)* - Efficient language model inference in supercomputing via knowledge distillation, model cascades, and predictive routing
+- **Marc Font Ruana** - *Bachelor Thesis, FIB, UPC (Sep 2026)* - Cloud-Native Deployment and Orchestration for Efficient LLM Routing   
+- **Marc Romera Peral** - *Bachelor Thesis, FIB, UPC (Mar 2026)* - Efficient language model inference in supercomputing via knowledge distillation, model cascades, and predictive routing
 
 ---
 
